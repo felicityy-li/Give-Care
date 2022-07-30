@@ -1,6 +1,6 @@
 <h2 align="center">HackRX2022</h2> 
 
-<h2 align="center">SeamlessRX 💊🌿</h2> 
+<h2 align="center">Give Care 💊🌿</h2> 
   
 ## 📝 Table of Contents  
 - [About](#about)  
