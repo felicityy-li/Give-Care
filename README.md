@@ -10,7 +10,7 @@
 
 ## 💊🌿 About <a name = "#getting_started"></a>
 
-## 🏃‍♀️🏃 How to run SeamlessRX? <a name="usage"></a>  
+## 🏃‍♀️🏃 How to run Give Care? <a name="usage"></a>  
 
 ## ⛏️⛏️ Built Using <a name = "built_using"></a>  
 
